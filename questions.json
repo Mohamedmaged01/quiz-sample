@@ -1,0 +1,35 @@
+[
+  {
+    "title": "what is 5 * 8",
+    "answer1": "25",
+    "answer2": "40",
+    "answer3": "51",
+    "answer4": "80",
+    "right_answer": "40"
+  },
+
+  {
+    "title": "what is 9 * 9",
+    "answer1": "65",
+    "answer2": "83",
+    "answer3": "81",
+    "answer4": "18",
+    "right_answer": "81"
+  },
+  {
+    "title": "what is  35 / 7",
+    "answer1": "5",
+    "answer2": "3",
+    "answer3": "4",
+    "answer4": "6",
+    "right_answer": "5"
+  },
+  {
+    "title": "what is 54/ 6",
+    "answer1": "9",
+    "answer2": "7",
+    "answer3": "8",
+    "answer4": "10",
+    "right_answer": "9"
+  }
+]
